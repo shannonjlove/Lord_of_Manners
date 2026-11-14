@@ -6,6 +6,8 @@ An illustrated poem presented in thirty cinematic plates—one image for each st
 
 [Read the poem without illustrations](POEM.md) · [Download the illustrated PDF](Lord_of_the_Manners.pdf)
 
+**Development docs:** [Marketing strategy](docs/marketing-strategy.md) · [Animation studio partners](docs/animation-studio-partners.md) · [Pitching Lion Forge](docs/lion-forge-pitch.md)
+
 ---
 
 ### 01
