@@ -4,7 +4,7 @@
 
 An illustrated poem presented in thirty cinematic plates—one image for each stanza.
 
-[Read the poem without illustrations](POEM.md)
+[Read the poem without illustrations](POEM.md) · [Download the illustrated PDF](Lord_of_the_Manners.pdf)
 
 ---
 
